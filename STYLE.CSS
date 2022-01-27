@@ -1,0 +1,33 @@
+body{
+    background-image: url("DJ.jpg");
+    background-position: center;
+    font-family: 'Yeon Sung', cursive;
+    color: black;
+}
+.div1{
+    float: right;
+}
+.div2{
+    float: left;
+}
+.speakers_rightSide{
+    width: 400px;
+    height: 400px;
+}
+.speakers_leftSide{
+width: 400px;
+height: 400px;
+}
+.heading{
+    font-size: 30px;
+}
+.note{
+    color: rgb(255, 208, 0);
+    font-size:25px;
+}
+#song_name_teller{
+    font-size:20px;
+}
+canvas{
+    margin-top: 140px;
+}
